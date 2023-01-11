@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chussboi96
-- 👀 I’m interested in pretty much everything related to Data sciences
-- 🌱 I’m currently learning ... BS DATA SCIENCES at FAST NUCES.. 
-- 💞️ I’m looking to collaborate on ... C++ projects
-- 📫 How to reach me ... hammadjava96 -- instagram
+- 👀 I’m interested in pretty much everything related to Data ;)
+- 🌱 I am currently studying BS DATA SCIENCE at FAST NUCES Islamabad.
+- 💞️ I’m looking to collaborate on Python/C++ projects
+- 📫 How to reach me ... hammadjava96 -- instagram or mail me at hammad.javaid826@gmail.com
 
 <!---
 chussboi96/chussboi96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
