@@ -1,3 +1,6 @@
+
+![66676402](https://user-images.githubusercontent.com/103335581/226321768-e8f8be92-49e9-430d-bc42-b38c97495b56.jpeg)
+
 - 👋 Hi, I’m @chussboi96
 - 👀 I’m interested in pretty much everything related to Data ;)
 - 💞️ I’m looking to collaborate on Python/C++ projects
