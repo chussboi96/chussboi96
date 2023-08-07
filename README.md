@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @chussboi96
 - 👀 I’m interested in pretty much everything related to Data ;)
-- 💞️ I’m looking to collaborate on Python/C++ projects
+- 💞️ I’m looking to collaborate on Python/Data Science projects
 - 📫 How to reach me ... hammadjava96 -- instagram or mail me at hammad.javaid826@gmail.com
 
 <!---
