@@ -10,5 +10,3 @@
 chussboi96/chussboi96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![1614824](https://user-images.githubusercontent.com/103335581/226322779-fe1c1c74-155d-49df-a031-f71e9f17b157.jpeg)
