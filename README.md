@@ -6,7 +6,7 @@
 - 🚀 Passionate about **AI, Data Science, and Generative AI**, building products that combine  
   machine learning, big data, and intelligent automation  
 
-- 🌍 Based in Pakistan  
+🌍 Based in Pakistan  
 - 📫 Reach me: [hammad.javaid826@gmail.com](mailto:hammad.javaid826@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/hammad-javaid-a539a789](https://www.linkedin.com/in/hammad-javaid-a539a789/)  
 - 📝 Medium: [medium.com/@hammad.javaid826](https://medium.com/@hammad.javaid826)  
