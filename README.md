@@ -1,12 +1,10 @@
 
-![66676402](https://user-images.githubusercontent.com/103335581/226321768-e8f8be92-49e9-430d-bc42-b38c97495b56.jpeg)
-
 # 👋 Hi, I’m Hammad Javaid (@chussboi96)
+🌍 Based in Pakistan  
 - 👀 I’m interested in pretty much everything related to **Data**  
 - 🚀 Passionate about **AI, Data Science, and Generative AI**, building products that combine  
   machine learning, big data, and intelligent automation  
 
-🌍 Based in Pakistan  
 - 📫 Reach me: [hammad.javaid826@gmail.com](mailto:hammad.javaid826@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/hammad-javaid-a539a789](https://www.linkedin.com/in/hammad-javaid-a539a789/)  
 - 📝 Medium: [medium.com/@hammad.javaid826](https://medium.com/@hammad.javaid826)  
