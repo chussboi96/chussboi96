@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Hammad Javaid (@chussboi96)
+# 👋 Hi, I’m Hammad Javaid
 🌍 Based in Pakistan  
 - 👀 I’m interested in pretty much everything related to **Data**  
 - 🚀 Passionate about **AI, Data Science, and Generative AI**, building products that combine  
