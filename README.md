@@ -15,11 +15,11 @@ Passionate about **AI, Data Science, and Generative AI**, building products that
 ## 🛠 Tech Stack
 | **Category**               | **Technologies**                                                              |
 |----------------------------|-------------------------------------------------------------------------------|
-| **Generative AI & LLMs**   | Diffusers, ComfyUI, n8n, LangChain, Ollama, HuggingFace, RAG, Embeddings      |
+| **Generative AI & LLMs**   | LangChain, Ollama, HuggingFace, Transformers, RAG, Diffusers, n8n, ComfyUI    |
 | **Machine Learning**       | PyTorch, TensorFlow, Scikit-learn                                             |
 | **Big Data & Engineering** | Apache Spark, Kafka, Airflow, MongoDB, SQL                                    |
-| **Computer Vision**        | YOLOv9, OpenCV                                                                |
-| **Cloud & Deployment**     | Docker, Kubernetes, GitHub Actions                                            |
+| **Computer Vision**        | YOLO, OpenCV                                                                  |
+| **Cloud & Deployment**     | Docker, Kubernetes, GitHub Actions, AWS                                       |
 | **Programming**            | Python, SQL, C++                                                              |
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
