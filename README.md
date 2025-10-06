@@ -1,8 +1,8 @@
 
 # 👋 Hi, I’m Hammad Javaid
-- 🌍 Based in Pakistan  
-- I’m interested in pretty much everything related to **Data**  
-- 🚀 Passionate about **AI, Data Science, and Generative AI**, building products that combine  
+## 🌍 Based in Pakistan  
+## I’m interested in pretty much everything related to **Data**  
+## 🚀 Passionate about **AI, Data Science, and Generative AI**, building products that combine  
   machine learning, big data, and intelligent automation  
 
 - 📫 Reach me: [hammad.javaid826@gmail.com](mailto:hammad.javaid826@gmail.com)  
