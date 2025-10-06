@@ -29,16 +29,15 @@ Passionate about **AI, Data Science, and Generative AI**, building products that
 
 ---
 
-## 🔭 Featured Projects
-- **Generative AI × GitHub Insights**  
-- **Virtual Try-On for Eastern Clothing**  
-- **Medium Articles on AI & Data Engineering**  
+## 🔭 Currently Working On
+- Building **Generative AI × GitHub**: AI system that auto-generates repo insights (LangChain + Ollama + Qdrant)  
+- Researching on virtual tryon for eastern clothing  
+- Writing about AI & Data Engineering on Medium  
 
 ---
 
 ## 🌟 About Me
-- **Currently Exploring**: Advanced generative AI workflows and scalable data pipelines.  
-- **Fun Fact**: I love diving into datasets to uncover hidden stories and turning them into actionable insights.  
+- **Fun Fact**: I love diving into or creating totally new datasets :)
 - **Let’s Connect**: I’m always open to discussing AI, data, or potential collaborations. Reach out via [email](mailto:hammad.javaid826@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hammad-javaid-a539a789/)!
 
 ---
