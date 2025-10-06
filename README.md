@@ -1,41 +1,53 @@
+# 👋 Hammad Javaid
+**Data Scientist & AI Enthusiast** | 📍 Pakistan
 
-# 👋 Hi, I’m Hammad Javaid
-## 🌍 Based in Pakistan  
-## I’m interested in pretty much everything related to **Data**  
-## 🚀 Passionate about **AI, Data Science, and Generative AI**, building products that combine  
-  machine learning, big data, and intelligent automation  
+Welcome to my GitHub! I'm passionate about harnessing **AI, Data Science, and Generative AI** to build innovative solutions that blend machine learning, big data, and intelligent automation. Explore my projects, connect with me, or let’s collaborate on something exciting!
 
-- 📫 Reach me: [hammad.javaid826@gmail.com](mailto:hammad.javaid826@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/hammad-javaid-a539a789](https://www.linkedin.com/in/hammad-javaid-a539a789/)  
-- 📝 Medium: [medium.com/@hammad.javaid826](https://medium.com/@hammad.javaid826)  
-- 📊 Kaggle: [kaggle.com/hammadjavaid](https://www.kaggle.com/hammadjavaid)  
+📫 **Email**: [hammad.javaid826@gmail.com](mailto:hammad.javaid826@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/hammad-javaid-a539a789](https://www.linkedin.com/in/hammad-javaid-a539a789/)  
+📝 **Medium**: [medium.com/@hammad.javaid826](https://medium.com/@hammad.javaid826)  
+📊 **Kaggle**: [kaggle.com/hammadjavaid](https://www.kaggle.com/hammadjavaid)  
 
 ---
 
-## 🛠 Tech Stack & Skills
-- **Generative AI & LLMs** (Diffusers, Comfyui, n8n, LangChain, Ollama, HuggingFace, RAG, Embeddings)
-- **Machine Learning & Deep Learning** (PyTorch, TensorFlow, Sklearn)
-- **Big Data & Engineering** (Apache Spark, Kafka, Airflow, MongoDB, SQL)
-- **Computer Vision** (YOLOv9, OpenCV)
-- **Cloud & Deployment** (Docker, Kubernetes, GitHub Actions)
-- **Programming** (Python, SQL, C++)
+## 🛠 Tech Stack
+| **Category**               | **Technologies**                                                              |
+|----------------------------|-------------------------------------------------------------------------------|
+| **Generative AI & LLMs**   | Diffusers, ComfyUI, n8n, LangChain, Ollama, HuggingFace, RAG, Embeddings      |
+| **Machine Learning**       | PyTorch, TensorFlow, Scikit-learn                                             |
+| **Big Data & Engineering** | Apache Spark, Kafka, Airflow, MongoDB, SQL                                    |
+| **Computer Vision**        | YOLOv9, OpenCV                                                                |
+| **Cloud & Deployment**     | Docker, Kubernetes, GitHub Actions                                            |
+| **Programming**            | Python, SQL, C++                                                              |
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)
 
 ---
 
-## 🔭 Currently Working On
-- Building **Generative AI × GitHub**: AI system that auto-generates repo insights (LangChain + Ollama + Qdrant)  
-- Researching on virtual tryon for eastern clothing  
-- Writing about AI & Data Engineering on Medium  
+## 🔭 Featured Projects
+- **Generative AI × GitHub Insights**  
+- **Virtual Try-On for Eastern Clothing**  
+- **Medium Articles on AI & Data Engineering**  
+
+---
+
+## 🌟 About Me
+- **Currently Exploring**: Advanced generative AI workflows and scalable data pipelines.  
+- **Fun Fact**: I love diving into datasets to uncover hidden stories and turning them into actionable insights.  
+- **Let’s Connect**: I’m always open to discussing AI, data, or potential collaborations. Reach out via [email](mailto:hammad.javaid826@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hammad-javaid-a539a789/)!
 
 ---
 
 ## 📊 GitHub Stats
-![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=chussboi96&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chussboi96&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chussboi96&show_icons=true&theme=radical" alt="Hammad's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chussboi96&layout=compact&theme=radical" alt="Top Languages" width="300"/>
+</p>
 
 ---
 
-<!---
-chussboi96/chussboi96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*“The best way to predict the future is to create it.”*  
+Let’s build something amazing together! 🚀
