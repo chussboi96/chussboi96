@@ -1,5 +1,5 @@
-# 👋 Hey there, Hammad Javaid here 
-**📍 Based in Pakistan
+# 👋 Hi, I'm Hammad Javaid 
+📍 Based in Pakistan
 
 I’m interested in pretty much everything related to **Data**  and Passionate about **AI, Data Science, and Generative AI**, building products that combine machine learning, big data, and intelligent automation  
 
@@ -49,5 +49,3 @@ I’m interested in pretty much everything related to **Data**  and Passionate a
 </p>
 
 ---
-
-*“yeah, thats it lol”*  
