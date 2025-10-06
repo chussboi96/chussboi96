@@ -1,7 +1,8 @@
-# 👋 Hammad Javaid
-**Data Scientist & AI Enthusiast** | 📍 Pakistan
+# 👋 Hey there, Hammad Javaid here 
+**📍 Based in Pakistan
 
-Welcome to my GitHub! I'm passionate about harnessing **AI, Data Science, and Generative AI** to build innovative solutions that blend machine learning, big data, and intelligent automation. Explore my projects, connect with me, or let’s collaborate on something exciting!
+I’m interested in pretty much everything related to **Data**  and Passionate about **AI, Data Science, and Generative AI**, building products that combine machine learning, big data, and intelligent automation  
+
 
 📫 **Email**: [hammad.javaid826@gmail.com](mailto:hammad.javaid826@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/hammad-javaid-a539a789](https://www.linkedin.com/in/hammad-javaid-a539a789/)  
@@ -49,5 +50,4 @@ Welcome to my GitHub! I'm passionate about harnessing **AI, Data Science, and Ge
 
 ---
 
-*“The best way to predict the future is to create it.”*  
-Let’s build something amazing together! 🚀
+*“yeah, thats it lol”*  
